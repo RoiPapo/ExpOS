@@ -2,7 +2,9 @@
 This is the official PyTorch implementation of ExpOS: Explainable Open-Surgery Skills Assessment Using 3D Hand Reconstruction.
 
 
-https://github.com/user-attachments/assets/718fd17d-4780-47cf-8ed7-daacef99f684
+
+https://github.com/user-attachments/assets/0c3d162d-1c13-45c0-b919-baceef0fa825
+
 
 
 ## Code will be posted upon acceptance.
